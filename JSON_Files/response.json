@@ -1,0 +1,2039 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2022-05-09T12:54:05-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "",
+      "subsection": "",
+      "title": "",
+      "abstract": "",
+      "url": "",
+      "uri": "nyt://promo/764c6ca1-f5a4-5ece-afd1-73f771a52447",
+      "byline": "",
+      "item_type": "Promo",
+      "updated_date": "2022-05-09T16:10:13-04:00",
+      "created_date": "2022-05-09T06:52:30-04:00",
+      "published_date": "2022-05-09T06:52:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09tonys-nomination-musical1/09tonys-nomination-musical1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 974,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was among the nominees for best new musical. It stars Jaquel Spivey, center, as Usher, a Broadway usher.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09tonys-nomination-musical1/09tonys-nomination-musical1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was among the nominees for best new musical. It stars Jaquel Spivey, center, as Usher, a Broadway usher.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09tonys-nomination-musical1/09tonys-nomination-musical1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was among the nominees for best new musical. It stars Jaquel Spivey, center, as Usher, a Broadway usher.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Full List of the 2022 Tony Award Nominees",
+      "abstract": "On Monday, the nominees for the 75th Tony Awards were announced. The ceremony will take place on June 12 on CBS and Paramount+.",
+      "url": "https://www.nytimes.com/2022/05/09/theater/tony-awards-nominees.html",
+      "uri": "nyt://article/27cdbbfa-19ae-5db0-8086-ec8babde4a38",
+      "byline": "By Rachel Sherman",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T11:54:34-04:00",
+      "created_date": "2022-05-09T05:00:13-04:00",
+      "published_date": "2022-05-09T05:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Theater"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms-list-six/merlin_195645033_bde77ed0-ea94-4758-8378-f5bd10f6803a-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1393,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittney Mack, center, with clockwise from left, Andrea Macasaet, Samantha Pauly, Abby Mueller, Anna Uzele and Adrianna Hicks in \u201cSix: The Musical.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms-list-six/09tony-noms-list-six-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittney Mack, center, with clockwise from left, Andrea Macasaet, Samantha Pauly, Abby Mueller, Anna Uzele and Adrianna Hicks in \u201cSix: The Musical.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms-list-six/09tony-noms-list-six-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittney Mack, center, with clockwise from left, Andrea Macasaet, Samantha Pauly, Abby Mueller, Anna Uzele and Adrianna Hicks in \u201cSix: The Musical.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3slfqmx"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A Messy Table, a Map of the World",
+      "abstract": "Dutch still life paintings like this one do more than depict luxurious objects. They narrate history on a global scale.",
+      "url": "https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html",
+      "uri": "nyt://interactive/22fa3806-ca0f-57b1-a9f0-c2e71789ac15",
+      "byline": "By Jason Farago",
+      "item_type": "Interactive",
+      "updated_date": "2022-05-09T16:08:03-04:00",
+      "created_date": "2022-05-08T05:00:01-04:00",
+      "published_date": "2022-05-08T05:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [
+        "Metropolitan Museum of Art",
+        "Rijksmuseum"
+      ],
+      "per_facet": [
+        "Heda, Willem Claesz (1594-1680)"
+      ],
+      "geo_facet": [
+        "Netherlands"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/arts/close-read-heda-promo-green/close-read-heda-promo-green-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Willem Claesz Heda/Rijksmuseum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/arts/close-read-heda-promo-green/close-read-heda-promo-green-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Willem Claesz Heda/Rijksmuseum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/arts/close-read-heda-promo-green/close-read-heda-promo-green-thumbLarge-v3.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Willem Claesz Heda/Rijksmuseum"
+        }
+      ],
+      "short_url": "https://nyti.ms/3P8gd44"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Susan Jaffe to Be Next Artistic Director at American Ballet Theater",
+      "abstract": "A former star ballerina with the company, Jaffe will assume the reins after the 30-year tenure of Kevin McKenzie.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/dance/susan-jaffe-artistic-director-ballet-theater.html",
+      "uri": "nyt://article/d44191ba-adf3-59ed-97e4-6f003d50b46e",
+      "byline": "By Roslyn Sulcas",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T16:13:08-04:00",
+      "created_date": "2022-05-09T12:15:06-04:00",
+      "published_date": "2022-05-09T12:15:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "American Ballet Theater",
+        "Pittsburgh Ballet Theater"
+      ],
+      "per_facet": [
+        "McKenzie, Kevin (1954- )",
+        "Jaffe, Susan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09abt-developments-2/merlin_206587005_3f197ac1-87ea-48d5-8f64-6cad63d29f07-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Susan Jaffe in Pittsburgh, where she has been artistic director of the Pittsburgh Ballet Theater since July 2020.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09abt-developments-2/09abt-developments-2-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Susan Jaffe in Pittsburgh, where she has been artistic director of the Pittsburgh Ballet Theater since July 2020.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09abt-developments-2/merlin_206587005_3f197ac1-87ea-48d5-8f64-6cad63d29f07-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Susan Jaffe in Pittsburgh, where she has been artistic director of the Pittsburgh Ballet Theater since July 2020.",
+          "copyright": "Ross Mantle for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vTOEUv"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "In \u2018American Song Contest,\u2019 It\u2019s About the Songs, Not Just the Lungs",
+      "abstract": "Ahead of this week\u2019s final round, a writer and photographer went backstage for this state-versus-state competition based on Eurovision. The singers get it. Does America?",
+      "url": "https://www.nytimes.com/2022/05/09/arts/television/american-song-contest-final.html",
+      "uri": "nyt://article/7ab6175a-71a0-5d99-ae3c-4a8e5bc844e5",
+      "byline": "By Elisabeth Vincentelli",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T08:23:39-04:00",
+      "created_date": "2022-05-09T03:00:20-04:00",
+      "published_date": "2022-05-09T03:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Television",
+        "Contests and Prizes",
+        "American Song Contest (TV Program)",
+        "Eurovision Song Contest"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Clarkson, Kelly",
+        "Snoop Dogg"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09song-contestx/merlin_206415942_39d78d7c-6350-4b0b-bcfd-7c4d3f8c97cc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Snoop Dogg greeted contestants\u2019 friends and families during a commercial break in a live broadcast of the \u201cAmerican Song Contest\u201d semifinals.",
+          "copyright": "Rosie Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09song-contestx/merlin_206415942_39d78d7c-6350-4b0b-bcfd-7c4d3f8c97cc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Snoop Dogg greeted contestants\u2019 friends and families during a commercial break in a live broadcast of the \u201cAmerican Song Contest\u201d semifinals.",
+          "copyright": "Rosie Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09song-contestx/09song-contestx-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Snoop Dogg greeted contestants\u2019 friends and families during a commercial break in a live broadcast of the \u201cAmerican Song Contest\u201d semifinals.",
+          "copyright": "Rosie Marks for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3M2ol43"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: Igor Levit Arrives at the Philharmonic, at Last",
+      "abstract": "Levit, one of the world\u2019s eminent pianists, appeared with the orchestra at Carnegie Hall eight years after making his New York debut.",
+      "url": "https://www.nytimes.com/2022/05/08/arts/music/igor-levit-ny-phil-review.html",
+      "uri": "nyt://article/b6a4abec-c0f0-5e87-b832-43936de57a16",
+      "byline": "By Joshua Barone",
+      "item_type": "Article",
+      "updated_date": "2022-05-08T22:32:06-04:00",
+      "created_date": "2022-05-08T12:08:30-04:00",
+      "published_date": "2022-05-08T12:08:30-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "New York Philharmonic",
+        "Carnegie Hall"
+      ],
+      "per_facet": [
+        "Levit, Igor",
+        "van Zweden, Jaap"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08nyphil/08nyphil-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2000,
+          "width": 1333,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Igor Levit made his New York Philharmonic debut at Carnegie Hall on Friday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08nyphil/08nyphil-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Igor Levit made his New York Philharmonic debut at Carnegie Hall on Friday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08nyphil/08nyphil-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Igor Levit made his New York Philharmonic debut at Carnegie Hall on Friday.",
+          "copyright": "Chris Lee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kORPXh"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: \u2018Wedding Band,\u2019 a Searing Look at Miscegenation Nation",
+      "abstract": "Alice Childress\u2019s 1962 play about interracial love and hate gets its first major New York revival in 50 years.",
+      "url": "https://www.nytimes.com/2022/05/08/theater/review-wedding-band.html",
+      "uri": "nyt://article/94330358-e0e0-5edf-9585-27a32d58b99d",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T11:51:37-04:00",
+      "created_date": "2022-05-08T22:00:03-04:00",
+      "published_date": "2022-05-08T22:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Theater",
+        "Wedding Band (Play)"
+      ],
+      "org_facet": [
+        "Theater for a New Audience",
+        "Polonsky Shakespeare Center"
+      ],
+      "per_facet": [
+        "Childress, Alice",
+        "Timpo, Awoye"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/08wedding-band-print1/merlin_206069739_3645e505-ac53-43ef-8d23-81861c68fdc4-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittany Bradford, left, and Thomas Sadoski in the Theater for a New Audience production of the play \u201cWedding Band.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/08wedding-band-print1/merlin_206069739_3645e505-ac53-43ef-8d23-81861c68fdc4-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittany Bradford, left, and Thomas Sadoski in the Theater for a New Audience production of the play \u201cWedding Band.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/08wedding-band-print1/merlin_206069739_3645e505-ac53-43ef-8d23-81861c68fdc4-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittany Bradford, left, and Thomas Sadoski in the Theater for a New Audience production of the play \u201cWedding Band.\u201d",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3LZgJzd"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Warhol\u2019s $200 Million \u2018Marilyn\u2019 Could Test Art Market\u2019s Health",
+      "abstract": "The painting is poised to wrest the auction high for an American artwork from Jean-Michel Basquiat.",
+      "url": "https://www.nytimes.com/2022/05/08/arts/design/and-warhol-200-million-marilyn-basquiat-christies-auction.html",
+      "uri": "nyt://article/86b96c07-ff22-57a4-a13a-1f834024250d",
+      "byline": "By Robin Pogrebin and Scott Reyburn",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T12:01:18-04:00",
+      "created_date": "2022-05-08T15:07:29-04:00",
+      "published_date": "2022-05-08T15:07:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Auctions"
+      ],
+      "org_facet": [
+        "Christie's",
+        "Phillips Auctioneers LLC",
+        "Sotheby's"
+      ],
+      "per_facet": [
+        "Warhol, Andy",
+        "Basquiat, Jean-Michel",
+        "Monroe, Marilyn",
+        "Picasso, Pablo",
+        "Rotter, Alex"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09warhol-auction-1/merlin_206146221_67a27ce3-5706-4937-ac27-170d46f782b9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A viewer with Andy Warhol\u2019s \u201cShot Sage Blue Marilyn\u201d (1964) at Christie\u2019s New York, which will be offered Monday night. The sale, the first of the spring auctions, could be a bellwether of the market\u2019s health. ",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09warhol-auction-1/09warhol-auction-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A viewer with Andy Warhol\u2019s \u201cShot Sage Blue Marilyn\u201d (1964) at Christie\u2019s New York, which will be offered Monday night. The sale, the first of the spring auctions, could be a bellwether of the market\u2019s health. ",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09warhol-auction-1/09warhol-auction-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A viewer with Andy Warhol\u2019s \u201cShot Sage Blue Marilyn\u201d (1964) at Christie\u2019s New York, which will be offered Monday night. The sale, the first of the spring auctions, could be a bellwether of the market\u2019s health. ",
+          "copyright": "Angela Weiss/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3slR0cC"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Ncuti Gatwa Is the New Doctor on \u2018Doctor Who\u2019",
+      "abstract": "Mr. Gatwa, a star of the Netflix series \u201cSex Education,\u201d will be the first Black man to play the lead character in the enduring BBC science fiction franchise.",
+      "url": "https://www.nytimes.com/2022/05/08/arts/television/ncuti-gatwa-doctor-who.html",
+      "uri": "nyt://article/e5c16bc4-055f-560d-8d1e-a9d1b13d4ca4",
+      "byline": "By Christine Chung",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T10:55:49-04:00",
+      "created_date": "2022-05-08T13:29:25-04:00",
+      "published_date": "2022-05-08T13:29:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Science Fiction",
+        "Doctor Who (TV Program)",
+        "Sex Education (TV Program)"
+      ],
+      "org_facet": [
+        "British Broadcasting Corp"
+      ],
+      "per_facet": [
+        "Gatwa, Ncuti",
+        "Whittaker, Jodie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08xp-newdoctor-01/08xp-newdoctor-01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ncuti Gatwa will be the 14th actor and the first Black man to portray the Doctor on \u201cDoctor Who.\u201d",
+          "copyright": "Neil Hall/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08xp-newdoctor-01/08xp-newdoctor-01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ncuti Gatwa will be the 14th actor and the first Black man to portray the Doctor on \u201cDoctor Who.\u201d",
+          "copyright": "Neil Hall/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08xp-newdoctor-01/08xp-newdoctor-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ncuti Gatwa will be the 14th actor and the first Black man to portray the Doctor on \u201cDoctor Who.\u201d",
+          "copyright": "Neil Hall/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kOZtkr"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Madonna and Beeple Collaborate on NFT Project",
+      "abstract": "The pop singer spent the last year working with the digital artist on a video series about motherhood. Proceeds will benefit three nonprofits.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/design/madonna-beeple-nft-videos.html",
+      "uri": "nyt://article/2b3c22f7-54dc-5f86-9f0f-8b0448751b2a",
+      "byline": "By Zachary Small",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T16:00:08-04:00",
+      "created_date": "2022-05-09T16:00:08-04:00",
+      "published_date": "2022-05-09T16:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Women and Girls",
+        "Auctions",
+        "Nonfungible Tokens (NFTs)"
+      ],
+      "org_facet": [
+        "SuperRare Labs"
+      ],
+      "per_facet": [
+        "Madonna",
+        "Winkelmann, Mike (Beeple)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09madonna-nft1/09madonna-nft1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 989,
+          "width": 1768,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Madonna and Beeple\u2019s NFT artwork \u201cMother of Creation\u201d (2022), part of a video triptych they created.",
+          "copyright": "Madonna and Beeple"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09madonna-nft1/09madonna-nft1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Madonna and Beeple\u2019s NFT artwork \u201cMother of Creation\u201d (2022), part of a video triptych they created.",
+          "copyright": "Madonna and Beeple"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09madonna-nft1/09madonna-nft1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Madonna and Beeple\u2019s NFT artwork \u201cMother of Creation\u201d (2022), part of a video triptych they created.",
+          "copyright": "Madonna and Beeple"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KXAMNo"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "\u2018A Strange Loop\u2019 Nominated for 11 Tonys as Broadway Lauds Comeback",
+      "abstract": "\u201cThe Lehman Trilogy,\u201d as well as revivals of \u201cCompany\u201d and \u201cFor Colored Girls,\u201d led in their respective categories as the industry tries to recover from the long pandemic shutdown.",
+      "url": "https://www.nytimes.com/2022/05/09/theater/a-strange-loop-broadway-tonys.html",
+      "uri": "nyt://article/100b29fb-b9b6-5c93-afce-e73207682d4b",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:53:45-04:00",
+      "created_date": "2022-05-09T14:53:45-04:00",
+      "published_date": "2022-05-09T14:53:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "A Strange Loop (Play)",
+        "American Buffalo (Play)",
+        "Caroline, or Change (Play)",
+        "Company (Play)",
+        "Girl From the North Country (Play)",
+        "Hangmen (Play)",
+        "How I Learned to Drive (Play)",
+        "MJ (Play)",
+        "Mr Saturday Night (Play)",
+        "Mrs Doubtfire (Play)",
+        "Six (Play)",
+        "Skeleton Crew (Play)",
+        "Take Me Out (Play)",
+        "The Lehman Trilogy (Play)",
+        "The Music Man (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Beale, Simon Russell",
+        "Brown, Camille A",
+        "Elliott, Marianne",
+        "Frost, Myles",
+        "Godley, Adam",
+        "Jackman, Hugh",
+        "Jackson, Michael R",
+        "Lester, Adrian",
+        "Letts, Tracy",
+        "LuPone, Patti",
+        "Spivey, Jaquel",
+        "Morisseau, Dominique",
+        "McDonagh, Martin",
+        "Massini, Stefano"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms1/merlin_205699467_64a14a95-cfe6-481e-84ed-dd3d6fdabb26-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1454,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was nominated for 11 Tony Awards, including best new musical. One of the nods went to its star, Jaquel Spivey, who plays Usher, a Broadway usher who is trying to write a show.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms1/09tony-noms1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was nominated for 11 Tony Awards, including best new musical. One of the nods went to its star, Jaquel Spivey, who plays Usher, a Broadway usher who is trying to write a show.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-noms1/09tony-noms1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d was nominated for 11 Tony Awards, including best new musical. One of the nods went to its star, Jaquel Spivey, who plays Usher, a Broadway usher who is trying to write a show.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3w8iROw"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "In Elif Batuman\u2019s \u2018Either/Or,\u2019 a Witty and Perceptive Young Woman Returns",
+      "abstract": "Batuman\u2019s follow-up to \u201cThe Idiot\u201d follows the same character into her second year at Harvard.",
+      "url": "https://www.nytimes.com/2022/05/09/books/review-either-or-elif-batuman.html",
+      "uri": "nyt://article/632e0cbb-6d6e-5349-9fe1-aff363c3db22",
+      "byline": "By Dwight Garner",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:51:11-04:00",
+      "created_date": "2022-05-09T14:38:00-04:00",
+      "published_date": "2022-05-09T14:38:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Either/Or (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Batuman, Elif"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/books/09BOOKBATUMAN1/09BOOKBATUMAN1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1697,
+          "width": 1210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/books/09BOOKBATUMAN1/09BOOKBATUMAN1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/books/09BOOKBATUMAN1/09BOOKBATUMAN1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3snowz9"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: Handel\u2019s \u2018Serse,\u2019 With Yuks and Exquisite Playing",
+      "abstract": "The English Concert\u2019s performance at Carnegie Hall showed off the ensemble\u2019s elastic responsiveness.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/music/serse-review-english-concert-carnegie-hall.html",
+      "uri": "nyt://article/a41ef872-668b-53f4-a2f4-71ae90d63662",
+      "byline": "By Oussama Zahr",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:37:20-04:00",
+      "created_date": "2022-05-09T14:37:20-04:00",
+      "published_date": "2022-05-09T14:37:20-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Classical Music",
+        "Opera",
+        "Serse (Opera)"
+      ],
+      "org_facet": [
+        "English Concert",
+        "Carnegie Hall"
+      ],
+      "per_facet": [
+        "Bicket, Harry",
+        "D'Angelo, Emily (Singer)",
+        "Crowe, Lucy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09handel/merlin_206621805_564b5e77-d7e4-414b-9960-97cb12027f2e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Crowe as Romilda in the English Concert\u2019s \u201cSerse\u201d at Carnegie Hall.",
+          "copyright": "Richard Termine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09handel/merlin_206621805_564b5e77-d7e4-414b-9960-97cb12027f2e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Crowe as Romilda in the English Concert\u2019s \u201cSerse\u201d at Carnegie Hall.",
+          "copyright": "Richard Termine"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/09handel/merlin_206621805_564b5e77-d7e4-414b-9960-97cb12027f2e-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Crowe as Romilda in the English Concert\u2019s \u201cSerse\u201d at Carnegie Hall.",
+          "copyright": "Richard Termine"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N5gWBk"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "How Elizabeth Olsen Came Into Her Powers",
+      "abstract": "The actress started as an indie darling and never expected to become a Marvel linchpin as Wanda Maximoff. But she\u2019s now so invested in the role, she\u2019s open to a solo film.",
+      "url": "https://www.nytimes.com/2022/05/09/movies/elizabeth-olsen-doctor-strange-multiverse-of-madness.html",
+      "uri": "nyt://article/43cba241-1246-5618-9ed4-333bf3f3fbaa",
+      "byline": "By Kyle Buchanan",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T15:52:26-04:00",
+      "created_date": "2022-05-09T14:11:13-04:00",
+      "published_date": "2022-05-09T14:11:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Television",
+        "Actors and Actresses",
+        "Content Type: Personal Profile",
+        "Doctor Strange in the Multiverse of Madness (Movie)",
+        "WandaVision (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Olsen, Elizabeth (1989- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09elizabeth-olsen2/merlin_206366355_2cebfb67-4c63-4a52-a5dc-f7435baca8eb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1358,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olsen admitted to feeling anxiety about \u201cDoctor Strange\u2019: \u201cI\u2019ve never really had to lead a commercial film by myself.\u201d",
+          "copyright": "Rosie Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09elizabeth-olsen2/09elizabeth-olsen2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olsen admitted to feeling anxiety about \u201cDoctor Strange\u2019: \u201cI\u2019ve never really had to lead a commercial film by myself.\u201d",
+          "copyright": "Rosie Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09elizabeth-olsen2/09elizabeth-olsen2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olsen admitted to feeling anxiety about \u201cDoctor Strange\u2019: \u201cI\u2019ve never really had to lead a commercial film by myself.\u201d",
+          "copyright": "Rosie Marks for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Plxrev"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "In a Chaotic Tonys Season, It Was an Honor Just to Open",
+      "abstract": "The Tony nominations spread the wealth among many worthy (and a few unworthy) productions, as if to salute them for arriving at all.",
+      "url": "https://www.nytimes.com/2022/05/09/theater/tony-awards-nominations-ensembles.html",
+      "uri": "nyt://article/3725eeef-b92a-598c-8ef1-e044749d0a4b",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:46:06-04:00",
+      "created_date": "2022-05-09T13:57:07-04:00",
+      "published_date": "2022-05-09T13:57:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Awards, Decorations and Honors",
+        "A Strange Loop (Play)",
+        "For Colored Girls Who Have Considered Suicide/When the Rainbow Is Enuf (Play)",
+        "Is This a Room: Reality Winner Verbatim Transcription (Play)",
+        "Pass Over (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-notebook2/merlin_205423545_34f1a998-d57b-4dc4-9551-128db24a962e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A season of ensembles, including the seven colors of \u201cFor Colored Girls.\u201d From left: Tendayi Kuumba, Kenita R. Miller (a Tony nominee), Okwui Okpokwasili, Amara Granderson, Alexandria Wailes, Stacey Sargeant and D. Woods.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-notebook2/merlin_205423545_34f1a998-d57b-4dc4-9551-128db24a962e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A season of ensembles, including the seven colors of \u201cFor Colored Girls.\u201d From left: Tendayi Kuumba, Kenita R. Miller (a Tony nominee), Okwui Okpokwasili, Amara Granderson, Alexandria Wailes, Stacey Sargeant and D. Woods.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tony-notebook2/09tony-notebook2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A season of ensembles, including the seven colors of \u201cFor Colored Girls.\u201d From left: Tendayi Kuumba, Kenita R. Miller (a Tony nominee), Okwui Okpokwasili, Amara Granderson, Alexandria Wailes, Stacey Sargeant and D. Woods.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kWqDWG"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "At 85, the Jazz Bassist Ron Carter Still Seeks \u2018A Better Order of Notes\u2019",
+      "abstract": "The famously curious musician and bandleader will celebrate his milestone birthday with a career-spanning Carnegie Hall concert.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/music/ron-carter.html",
+      "uri": "nyt://article/4e8fdbfd-d5b5-529e-9b15-edc145c7b9df",
+      "byline": "By Marcus J. Moore",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:03:08-04:00",
+      "created_date": "2022-05-09T12:54:39-04:00",
+      "published_date": "2022-05-09T12:54:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jazz",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Ron"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09ron-carter3/09ron-carter3-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ron Carter is still focused on improving his playing and setting an example for his bandmates.",
+          "copyright": "Elliott Jerome Brown Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09ron-carter3/09ron-carter3-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ron Carter is still focused on improving his playing and setting an example for his bandmates.",
+          "copyright": "Elliott Jerome Brown Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09ron-carter3/09ron-carter3-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ron Carter is still focused on improving his playing and setting an example for his bandmates.",
+          "copyright": "Elliott Jerome Brown Jr. for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3MSBZa2"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Paula Vogel on \u2018How I Learned to Drive\u2019 nominations: \u2018I\u2019m just thrilled.\u2019",
+      "abstract": "Twenty-five years after it was a hit Off Broadway, the playwright\u2019s Pulitzer Prize-winning work debuted on Broadway this season.",
+      "url": "https://www.nytimes.com/2022/05/09/theater/paula-vogel-how-i-learned-to-drive.html",
+      "uri": "nyt://article/bd8de998-3a8c-5dd1-b330-b49783384bd0",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T13:10:17-04:00",
+      "created_date": "2022-05-09T12:20:47-04:00",
+      "published_date": "2022-05-09T12:20:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Tony Awards (Theater Awards)",
+        "Content Type: Personal Profile",
+        "How I Learned to Drive (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Vogel, Paula"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-VOGEL/merlin_123378143_92bbeedf-592b-4176-ab16-466870d4588e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paula Vogel in 2017. Her 1997 play \u201cHow I Learned to Drive,\u201d which won the Pulitzer Prize, arrived on Broadway this spring with its orginal leads, Mary-Louise Parker and David Morse.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-VOGEL/merlin_123378143_92bbeedf-592b-4176-ab16-466870d4588e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paula Vogel in 2017. Her 1997 play \u201cHow I Learned to Drive,\u201d which won the Pulitzer Prize, arrived on Broadway this spring with its orginal leads, Mary-Louise Parker and David Morse.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-VOGEL/merlin_123378143_92bbeedf-592b-4176-ab16-466870d4588e-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paula Vogel in 2017. Her 1997 play \u201cHow I Learned to Drive,\u201d which won the Pulitzer Prize, arrived on Broadway this spring with its orginal leads, Mary-Louise Parker and David Morse.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kTMCNL"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The Perfect Daughter Vanished on Prom Night. The Question Is: Why?",
+      "abstract": "In Casey McQuiston\u2019s Y.A. debut, \u201cI Kissed Shara Wheeler,\u201d a queer teenage rebel is on the hunt to find her school\u2019s missing golden girl, who, it turns out, is hiding a few secrets.",
+      "url": "https://www.nytimes.com/2022/05/09/books/review/i-kissed-shara-wheeler-casey-mcquiston.html",
+      "uri": "nyt://article/a004111a-bd58-548f-a355-aadd644bef42",
+      "byline": "By Olivia Waite",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:59:23-04:00",
+      "created_date": "2022-05-09T11:45:58-04:00",
+      "published_date": "2022-05-09T11:45:58-04:00",
+      "material_type_facet": "",
+      "kicker": "Young Adult",
+      "des_facet": [
+        "Books and Literature",
+        "Homosexuality and Bisexuality",
+        "I Kissed Shara Wheeler (Book)",
+        "genre-books-young-adult",
+        "genre-books-romance",
+        "genre-books-thriller"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "McQuiston, Casey"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/22/books/review/22Waite/22Waite-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 784,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nadia Hafid"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/22/books/review/22Waite/22Waite-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nadia Hafid"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/22/books/review/22Waite/22Waite-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nadia Hafid"
+        }
+      ],
+      "short_url": "https://nyti.ms/3weVt1Z"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "There were Tony snubs and surprises, as always.",
+      "abstract": "Several stars, including Daniel Craig and Sarah Jessica Parker, were not nominated for their performances, while \u201cParadise Square\u201d became one of the season\u2019s most-nominated shows.",
+      "url": "https://www.nytimes.com/2022/05/09/theater/tony-nominations-snubs-surprises.html",
+      "uri": "nyt://article/b24f5981-1c6f-518c-9d6a-1195d2e198f7",
+      "byline": "By Michael Paulson and Scott Heller",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T12:01:18-04:00",
+      "created_date": "2022-05-09T11:26:07-04:00",
+      "published_date": "2022-05-09T11:26:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Theater",
+        "Paradise Square (Play)",
+        "Take Me Out (Play)",
+        "The Lehman Trilogy (Play)",
+        "For Colored Girls Who Have Considered Suicide/When the Rainbow Is Enuf (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Parker, Sarah Jessica",
+        "McDonagh, Martin",
+        "Craig, Daniel",
+        "Ferguson, Jesse Tyler"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-SNUBS-COMBO/09TONYS-NOMINATIONS-SNUBS-COMBO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tony nominators overlooked the work of some of the biggest stars on Broadway, including Daniel Craig, in \u201cMacbeth,\u201d and Sarah Jessica Parker, in \u201cPlaza Suite.\u201d",
+          "copyright": "Photographs by Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-SNUBS-COMBO/09TONYS-NOMINATIONS-SNUBS-COMBO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tony nominators overlooked the work of some of the biggest stars on Broadway, including Daniel Craig, in \u201cMacbeth,\u201d and Sarah Jessica Parker, in \u201cPlaza Suite.\u201d",
+          "copyright": "Photographs by Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-SNUBS-COMBO/09TONYS-NOMINATIONS-SNUBS-COMBO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tony nominators overlooked the work of some of the biggest stars on Broadway, including Daniel Craig, in \u201cMacbeth,\u201d and Sarah Jessica Parker, in \u201cPlaza Suite.\u201d",
+          "copyright": "Photographs by Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Mb7Fas"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Future Earns an Eighth No. 1 Album With \u2018I Never Liked You\u2019",
+      "abstract": "The Atlanta rapper\u2019s latest release had the largest numbers of the year so far, but big new LPs from Bad Bunny and Jack Harlow will register on next week\u2019s chart.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/music/future-billboard-chart.html",
+      "uri": "nyt://article/e7a1391e-59c9-5e86-a15f-04c115c010e7",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T15:02:18-04:00",
+      "created_date": "2022-05-09T11:22:41-04:00",
+      "published_date": "2022-05-09T11:22:41-04:00",
+      "material_type_facet": "",
+      "kicker": "The Charts",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "I Never Liked You (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Future (Rapper)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09billboard/09billboard-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI Never Liked You\u201d is the eighth chart-topping album by Future. The album had the equivalent of 222,000 sales in the United States, more than any release this year.",
+          "copyright": "Burak Cingi/Redferns, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09billboard/09billboard-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI Never Liked You\u201d is the eighth chart-topping album by Future. The album had the equivalent of 222,000 sales in the United States, more than any release this year.",
+          "copyright": "Burak Cingi/Redferns, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09billboard/09billboard-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI Never Liked You\u201d is the eighth chart-topping album by Future. The album had the equivalent of 222,000 sales in the United States, more than any release this year.",
+          "copyright": "Burak Cingi/Redferns, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3LZtudf"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Violin From Hollywood\u2019s Golden Age Aims at an Auction Record",
+      "abstract": "Played in \u201cThe Wizard of Oz\u201d and other classic films, Toscha Seidel\u2019s Stradivarius could sell for almost $20 million.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/music/seidel-stradivarius-violin-auction.html",
+      "uri": "nyt://article/af1304df-b818-565f-9a14-730e9e318fd3",
+      "byline": "By James B. Stewart",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T13:18:21-04:00",
+      "created_date": "2022-05-09T10:00:09-04:00",
+      "published_date": "2022-05-09T10:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Movies",
+        "Violins and Violas",
+        "Auctions"
+      ],
+      "org_facet": [
+        "Tarisio Auctions LLC"
+      ],
+      "per_facet": [
+        "Stradivari, Antonio",
+        "Seidel, Toscha"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/10violin-1/10violin-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The \u201cda Vinci\u201d Stradivarius, from 1714, will be sold by the online auction house Tarisio.",
+          "copyright": "Andrew White for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/10violin-1/10violin-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The \u201cda Vinci\u201d Stradivarius, from 1714, will be sold by the online auction house Tarisio.",
+          "copyright": "Andrew White for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/10/arts/10violin-1/10violin-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The \u201cda Vinci\u201d Stradivarius, from 1714, will be sold by the online auction house Tarisio.",
+          "copyright": "Andrew White for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3soZ4cF"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "The Tony nominations are being announced right now.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/the-tony-nominations-are-being-announced-right-now.html",
+      "uri": "nyt://article/1c735213-b4ce-5a43-a710-9e413cbb0717",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T09:19:20-04:00",
+      "created_date": "2022-05-09T09:06:45-04:00",
+      "published_date": "2022-05-09T09:06:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Theater",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3L0H3ro"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "What\u2019s playing on Broadway right now?",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/broadway-shows-tickets.html",
+      "uri": "nyt://article/04419a60-082a-5fbc-8e26-e79fe8f23b0a",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T15:47:09-04:00",
+      "created_date": "2022-05-09T08:45:09-04:00",
+      "published_date": "2022-05-09T08:45:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/08/arts/08broadway-guide-2/merlin_201051363_ecc4ba38-3125-4cd5-938d-a915007b6633-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1379,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myles Frost as Michael Jackson in \u201cMJ\u201d at the Neil Simon Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/04/08/arts/08broadway-guide-2/08broadway-guide-2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myles Frost as Michael Jackson in \u201cMJ\u201d at the Neil Simon Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/04/08/arts/08broadway-guide-2/08broadway-guide-2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myles Frost as Michael Jackson in \u201cMJ\u201d at the Neil Simon Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3MWD7Jy"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Most Broadway theaters have ended vaccination checks as coronavirus cases are rising.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/most-broadway-theaters-ended-vaccination-checks-as-coronavirus-cases-rise.html",
+      "uri": "nyt://article/6ffa7909-27f8-5a9b-b3b8-8888a0706012",
+      "byline": "By Matt Stevens and Rachel Sherman",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T15:47:15-04:00",
+      "created_date": "2022-05-09T08:25:38-04:00",
+      "published_date": "2022-05-09T08:25:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Vaccination and Immunization",
+        "Theaters (Buildings)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09-tonys-nomiations-vaccines-1/09-tonys-nomiations-vaccines-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1356,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most Broadway theaters have stopped checking vaccination status but all still require masks.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09-tonys-nomiations-vaccines-1/09-tonys-nomiations-vaccines-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most Broadway theaters have stopped checking vaccination status but all still require masks.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/multimedia/09-tonys-nomiations-vaccines-1/09-tonys-nomiations-vaccines-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most Broadway theaters have stopped checking vaccination status but all still require masks.",
+          "copyright": "John Taggart for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N3JQl2"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "When are the Tony Awards?",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/when-are-the-tony-awards.html",
+      "uri": "nyt://article/5be24764-af6d-59e4-a277-95072df24556",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T16:06:09-04:00",
+      "created_date": "2022-05-09T07:45:44-04:00",
+      "published_date": "2022-05-09T07:45:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-when-are-the-tony-awards/merlin_199205955_d0cf0c50-710c-47b3-ac6f-97f657b3c2de-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariana DeBose will host the Tony Awards telecast June 12.",
+          "copyright": "Erik Carter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-when-are-the-tony-awards/09tonys-nominations-when-are-the-tony-awards-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariana DeBose will host the Tony Awards telecast June 12.",
+          "copyright": "Erik Carter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-when-are-the-tony-awards/09tonys-nominations-when-are-the-tony-awards-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ariana DeBose will host the Tony Awards telecast June 12.",
+          "copyright": "Erik Carter for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N7wRix"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "What happens next?",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/what-happens-next.html",
+      "uri": "nyt://article/882b6be3-dd19-5490-8bd0-816b9a12db3a",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T16:05:37-04:00",
+      "created_date": "2022-05-09T07:25:28-04:00",
+      "published_date": "2022-05-09T07:25:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-next2/09tonys-nominations-what-next2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1427,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A theater-centric display in Times Square.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-next2/09tonys-nominations-what-next2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A theater-centric display in Times Square.",
+          "copyright": "John Taggart for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-next2/09tonys-nominations-what-next2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A theater-centric display in Times Square.",
+          "copyright": "John Taggart for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N2a0EV"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "What to expect from this year\u2019s nominations.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/what-to-expect.html",
+      "uri": "nyt://article/f890e28a-2836-5de5-9fdc-697ee1ff6736",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T09:19:21-04:00",
+      "created_date": "2022-05-09T06:34:22-04:00",
+      "published_date": "2022-05-09T06:34:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-to-expect/merlin_205804503_b4d6e21b-a567-463b-9c02-3e11cf110b7e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d is in contention to pick up a nomination for best musical.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-to-expect/merlin_205804503_b4d6e21b-a567-463b-9c02-3e11cf110b7e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d is in contention to pick up a nomination for best musical.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tonys-nominations-what-to-expect/09tonys-nominations-what-to-expect-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cA Strange Loop\u201d is in contention to pick up a nomination for best musical.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3LXUERP"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "The Tony nominations are being announced this morning. Here\u2019s how to watch.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2022/05/09/theater/nominations-how-to-watch.html",
+      "uri": "nyt://article/5e86248c-bf53-5d22-a0f4-0ab0f23e14e8",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T09:06:56-04:00",
+      "created_date": "2022-05-09T06:30:39-04:00",
+      "published_date": "2022-05-09T06:30:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09TONYS-NOMINATIONS-COMBO/09TONYS-NOMINATIONS-COMBO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrienne Warren and Joshua Henry will announce the nominees.",
+          "copyright": "From left: Molly Matalon for The New York Times; Jesse Dittmar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3w7bJC0"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "A Woman Alone in Oman: Three Weeks Along the Arabian Coast",
+      "abstract": "In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here\u2019s what she saw.",
+      "url": "https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html",
+      "uri": "nyt://article/93d9f1ae-19eb-57fb-b33e-5c4214a40c32",
+      "byline": "By Noa Avishag Schnall",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T05:20:23-04:00",
+      "created_date": "2022-05-09T05:00:27-04:00",
+      "published_date": "2022-05-09T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Road Trips",
+        "Photography",
+        "Travel and Vacations",
+        "Dunes",
+        "Politics and Government",
+        "Women and Girls",
+        "Camps and Camping",
+        "Beaches",
+        "Foreign Workers"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Oman"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/travel/09travel-oman-promo/09travel-oman-01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dromedaries graze in the marsh where fresh water from Wadi Ashawq meets the Arabian Sea.",
+          "copyright": "Noa Avishag Schnall"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/travel/09travel-oman-promo/09travel-oman-promo-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dromedaries graze in the marsh where fresh water from Wadi Ashawq meets the Arabian Sea.",
+          "copyright": "Noa Avishag Schnall"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/travel/09travel-oman-promo/09travel-oman-promo-thumbLarge-v3.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dromedaries graze in the marsh where fresh water from Wadi Ashawq meets the Arabian Sea.",
+          "copyright": "Noa Avishag Schnall"
+        }
+      ],
+      "short_url": "https://nyti.ms/3smqShI"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "What\u2019s on TV This Week: \u2018Breeders\u2019 and \u2018The Time Traveler\u2019s Wife\u2019",
+      "abstract": "The third season of a dark comedy with Martin Freeman and Daisy Haggard begins on FX, and HBO debuts a new adaptation of a best-selling novel.",
+      "url": "https://www.nytimes.com/2022/05/09/arts/television/tv-breeders-the-time-travelers-wife.html",
+      "uri": "nyt://article/53499b8d-d57a-5f32-a8a0-996b7deae589",
+      "byline": "By Gabe Cohn",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T01:00:05-04:00",
+      "created_date": "2022-05-09T01:00:05-04:00",
+      "published_date": "2022-05-09T01:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tvcol-breeders/09tvcol-breeders-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Freeman and Daisy Haggard in \u201cBreeders.\u201d",
+          "copyright": "Mark Johnson/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tvcol-breeders/09tvcol-breeders-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Freeman and Daisy Haggard in \u201cBreeders.\u201d",
+          "copyright": "Mark Johnson/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/arts/09tvcol-breeders/09tvcol-breeders-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Freeman and Daisy Haggard in \u201cBreeders.\u201d",
+          "copyright": "Mark Johnson/FX"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N4ArKd"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: \u2018Falling Out of Time\u2019 Gives Song to a Father\u2019s Grief",
+      "abstract": "Osvaldo Golijov\u2019s evening-length work, based on the book by David Grossman about his son, had its New York premiere at Zankel Hall.",
+      "url": "https://www.nytimes.com/2022/05/08/arts/music/golijov-falling-out-of-time-review.html",
+      "uri": "nyt://article/baee1b41-8c24-57f9-b1e3-0778ca1c47ab",
+      "byline": "By Oussama Zahr",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T11:45:23-04:00",
+      "created_date": "2022-05-08T14:11:33-04:00",
+      "published_date": "2022-05-08T14:11:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Falling Out of Time (Musical Work)"
+      ],
+      "org_facet": [
+        "Carnegie Hall",
+        "Silkroad Ensemble"
+      ],
+      "per_facet": [
+        "Golijov, Osvaldo",
+        "Grossman, David"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08golijov/08golijov-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1334,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Silkroad Ensemble \u2014 and the vocalists, from left, Yoni Rechter, Nora Fischer and Biella Da Costa \u2014 in the New York premiere of Osvaldo Golijov's \u201cFalling Out of Time\u201d at Zankel Hall on Friday.",
+          "copyright": "Jennifer Taylor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08golijov/08golijov-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Silkroad Ensemble \u2014 and the vocalists, from left, Yoni Rechter, Nora Fischer and Biella Da Costa \u2014 in the New York premiere of Osvaldo Golijov's \u201cFalling Out of Time\u201d at Zankel Hall on Friday.",
+          "copyright": "Jennifer Taylor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/multimedia/08golijov/08golijov-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Silkroad Ensemble \u2014 and the vocalists, from left, Yoni Rechter, Nora Fischer and Biella Da Costa \u2014 in the New York premiere of Osvaldo Golijov's \u201cFalling Out of Time\u201d at Zankel Hall on Friday.",
+          "copyright": "Jennifer Taylor"
+        }
+      ],
+      "short_url": "https://nyti.ms/3smZv77"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Ric Parnell, Real Drummer in a Famous Fake Band, Dies at 70",
+      "abstract": "The central characters in the mockumentary \u201cThis Is Spinal Tap\u201d were comic actors, but Mr. Parnell was an actual professional musician.",
+      "url": "https://www.nytimes.com/2022/05/08/arts/music/ric-parnell-dead.html",
+      "uri": "nyt://article/eb9faeb4-5ae8-5db8-93a9-46ff1a95c752",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T10:16:03-04:00",
+      "created_date": "2022-05-08T12:27:44-04:00",
+      "published_date": "2022-05-08T12:27:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "This Is Spinal Tap (Movie)",
+        "Pop and Rock Music",
+        "Movies",
+        "Comedy and Humor",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Parnell, Ric (1951-2022)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/obituaries/00parnell-image/00parnell-image-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1344,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ric Parnell performing with Spinal Tap in Minneapolis in 1992. His character, Mick Shrimpton, died near the end of the movie \u201cThis Is Spinal Tap,\u201d released in 1984; when the band later went on tour, he was said to be Mick\u2019s twin brother, Rick.",
+          "copyright": "Jim Steinfeldt/Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/obituaries/00parnell-image/00parnell-image-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ric Parnell performing with Spinal Tap in Minneapolis in 1992. His character, Mick Shrimpton, died near the end of the movie \u201cThis Is Spinal Tap,\u201d released in 1984; when the band later went on tour, he was said to be Mick\u2019s twin brother, Rick.",
+          "copyright": "Jim Steinfeldt/Michael Ochs Archives/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/obituaries/00parnell-image/00parnell-image-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ric Parnell performing with Spinal Tap in Minneapolis in 1992. His character, Mick Shrimpton, died near the end of the movie \u201cThis Is Spinal Tap,\u201d released in 1984; when the band later went on tour, he was said to be Mick\u2019s twin brother, Rick.",
+          "copyright": "Jim Steinfeldt/Michael Ochs Archives/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3LVo42J"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Decade of Drill Rap",
+      "abstract": "Pop Smoke, Lil Durk, Fivio Foreign and more have taken the sound that emerged in Chicago in different directions. What might come next?",
+      "url": "https://www.nytimes.com/2022/05/08/arts/music/popcast-drill-rap.html",
+      "uri": "nyt://article/bd94566e-d06d-5360-ada0-68d91f7f5d4e",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T09:15:21-04:00",
+      "created_date": "2022-05-08T10:31:28-04:00",
+      "published_date": "2022-05-08T10:31:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "audio-neutral-informative",
+        "Rap and Hip-Hop",
+        "7220 (Album)",
+        "BIBLE (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Fivio Foreign (1996- )",
+        "Lil Durk (1992- )",
+        "Pop Smoke (Rapper)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/03/multimedia/03popcast/03popcast-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Sommerfeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/03/multimedia/03popcast/03popcast-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Sommerfeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/03/multimedia/03popcast/03popcast-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Sommerfeld for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vQ15R7"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Fernanda Melchor Explores the Human Capacity for Violence, and Grace",
+      "abstract": "\u201cArt must leave a wound,\u201d said the author, one of the most celebrated in new Latin American literature.",
+      "url": "https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html",
+      "uri": "nyt://article/87f86cad-7e5d-5eb4-a8a9-a4c8eef678a5",
+      "byline": "By Benjamin P. Russell",
+      "item_type": "Article",
+      "updated_date": "2022-05-09T14:21:24-04:00",
+      "created_date": "2022-05-08T05:00:14-04:00",
+      "published_date": "2022-05-08T05:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Content Type: Personal Profile",
+        "Violence (Media and Entertainment)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hughes, Sophie (Translator)",
+        "Melchor, Fernanda"
+      ],
+      "geo_facet": [
+        "Mexico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/books/08MELCHOR-image1/08MELCHOR-image1-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1423,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zo\u00eb Noble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/books/08MELCHOR-image1/08MELCHOR-image1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zo\u00eb Noble for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/05/08/books/08MELCHOR-image1/08MELCHOR-image1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zo\u00eb Noble for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3yn43yn"
+    }
+  ]
+}

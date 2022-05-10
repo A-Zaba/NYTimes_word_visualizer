@@ -1,0 +1,1253 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/a5d41cb1-5a0e-5e9c-b7e2-e3982f5aeaa2",
+      "url": "https://www.nytimes.com/2020/09/29/us/politics/debate-guide-presidential.html",
+      "id": 100000007357284,
+      "asset_id": 100000007357284,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 12:34:55",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Debates (Political);Presidential Election of 2020;Polls and Public Opinion;Voting and Voters;United States Politics and Government;Biden, Joseph R III;Trump, Donald J",
+      "column": null,
+      "byline": "By Shane Goldmacher and Adam Nagourney",
+      "type": "Article",
+      "title": "Biden and Trump\u2019s First Debate: Full Guide",
+      "abstract": "Unfolding in a stable presidential race and a tumultuous election year, the debate may be less likely than past ones to sway voters. But it is still an opportunity for President Trump in particular.",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Voting and Voters",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R III",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first presidential debate, which will take place in Cleveland, is one of President Trump\u2019s best chances to jostle the current dynamic in the race.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-whattowatch/29debate-whattowatch-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-whattowatch/29debate-whattowatch-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-whattowatch/29debate-whattowatch-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ed2d343e-61bc-56d9-ac87-69dd131bafee",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/trump-taxes-presidential-debate.html",
+      "id": 100000007365846,
+      "asset_id": 100000007365846,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-30 05:48:24",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Federal Taxes (US);Presidential Election of 2020;United States Politics and Government;Debates (Political);Income Tax;Trump Tax Returns;Trump, Donald J;Biden, Joseph R Jr;Republican Party;Democratic Party;Internal Revenue Service",
+      "column": null,
+      "byline": "By Peter Baker and Michael D. Shear",
+      "type": "Article",
+      "title": "Trump Deflects Questions About Taxes, but First Debate Has a New Issue",
+      "abstract": "While the president\u2019s Republican allies generally kept their silence, Democrats pounced and former Vice President Joseph R. Biden Jr., the party\u2019s presidential candidate, posted a video noting that the president paid less in income taxes than everyday Americans.",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Debates (Political)",
+        "Income Tax",
+        "Trump Tax Returns"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f9aedfa2-f371-5661-87d7-fd96a69d491b",
+      "url": "https://www.nytimes.com/2020/09/29/us/trump-proud-boys-biden.html",
+      "id": 100000007368968,
+      "asset_id": 100000007368968,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 13:12:03",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Sheera Frenkel and Annie Karni",
+      "type": "Article",
+      "title": "Proud Boys celebrate Trump\u2019s \u2018stand by\u2019 remark about them at the debate.",
+      "abstract": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Proud Boys gathered this month in Delta Park in Portland, Ore. The group has openly endorsed violence, and has recently been tied to several violent episodes at recent protests.",
+          "copyright": "Diana Zeyneb Alhindawi for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 17:26:29",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/11a24426-de57-5a68-af4c-0eae83b4bf84",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/debate-takeaways.html",
+      "id": 100000007357298,
+      "asset_id": 100000007357298,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 15:24:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Debates (Political);Biden, Joseph R Jr;Trump, Donald J;Wallace, Chris (1947- )",
+      "column": null,
+      "byline": "By Shane Goldmacher",
+      "type": "Article",
+      "title": "Six Takeaways From the First Presidential Debate",
+      "abstract": "It was 90 minutes of chaos in a year of upheaval. But did it matter?",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Debates (Political)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Wallace, Chris (1947- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and Joseph R. Biden Jr. faced off in the first presidential debate on Tuesday night in Cleveland.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30debate-takeaways/30debate-takeaways-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30debate-takeaways/30debate-takeaways-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30debate-takeaways/30debate-takeaways-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/078e8397-48a4-5c82-b824-dd46ee58f74d",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/white-house-cdc-coronavirus-schools.html",
+      "id": 100000007365230,
+      "asset_id": 100000007365230,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 12:59:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus Reopenings;Coronavirus (2019-nCoV);United States Politics and Government;Pediatric Inflammatory Multisystem Syndrome (PIMS);Education (K-12);Presidential Election of 2020;Birx, Deborah L;Redfield, Robert R;Troye, Olivia;Meadows, Mark R (1959- );Pence, Mike;Trump, Donald J;Short, Marc;Centers for Disease Control and Prevention;Health and Human Services Department;Substance Abuse and Mental Health Services Administration;American Academy of Pediatrics",
+      "column": null,
+      "byline": "By Mark Mazzetti, Noah Weiland and Sharon LaFraniere",
+      "type": "Article",
+      "title": "Behind the White House Effort to Pressure the C.D.C. on School Openings",
+      "abstract": "Documents and interviews show how senior officials sought to play down the risks of sending children back to the classroom, alarming public health experts.",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Pediatric Inflammatory Multisystem Syndrome (PIMS)",
+        "Education (K-12)",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department",
+        "Substance Abuse and Mental Health Services Administration",
+        "American Academy of Pediatrics"
+      ],
+      "per_facet": [
+        "Birx, Deborah L",
+        "Redfield, Robert R",
+        "Troye, Olivia",
+        "Meadows, Mark R (1959- )",
+        "Pence, Mike",
+        "Trump, Donald J",
+        "Short, Marc"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/28dc-virus-schools1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/merlin_175710369_e40a23fd-bd53-4623-8319-5efad2a06684-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/merlin_175710369_e40a23fd-bd53-4623-8319-5efad2a06684-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db7b7323-5863-5770-9436-6bfd88e21ef4",
+      "url": "https://www.nytimes.com/2020/09/29/business/disney-theme-park-workers-layoffs.html",
+      "id": 100000007365613,
+      "asset_id": 100000007365613,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 12:19:55",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Amusement and Theme Parks;Layoffs and Job Reductions;Coronavirus (2019-nCoV);Walt Disney Company;Disney, Walt, World (Lake Buena Vista, Fla);Disneyland (Anaheim, Calif);Orlando (Fla);Anaheim (Calif)",
+      "column": null,
+      "byline": "By Brooks Barnes",
+      "type": "Article",
+      "title": "Disney Lays Off 28,000, Mostly at Its 2 U.S. Theme Parks",
+      "abstract": "The company said it would eliminate thousands of jobs at its resorts in Florida and California, which have been hit hard by the pandemic.",
+      "des_facet": [
+        "Amusement and Theme Parks",
+        "Layoffs and Job Reductions",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Walt Disney Company",
+        "Disney, Walt, World (Lake Buena Vista, Fla)",
+        "Disneyland (Anaheim, Calif)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Orlando (Fla)",
+        "Anaheim (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b950be50-d4bc-583b-8486-271f3af181b0",
+      "url": "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.html",
+      "id": 100000007357966,
+      "asset_id": 100000007357966,
+      "source": "New York Times",
+      "published_date": "2020-09-27",
+      "updated": "2020-09-30 01:05:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Tax Returns;Conflicts of Interest;Presidential Election of 2020;Income Tax;Lobbying and Lobbyists;United States Politics and Government;Consultants;Tax Credits, Deductions and Exemptions;Credit and Debt;Trump, Donald J;Trump, Ivanka;Trump Organization;Internal Revenue Service",
+      "column": null,
+      "byline": "By David Leonhardt",
+      "type": "Article",
+      "title": "18 Revelations From a Trove of Trump Tax Records",
+      "abstract": "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings.",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "Presidential Election of 2020",
+        "Income Tax",
+        "Lobbying and Lobbyists",
+        "United States Politics and Government",
+        "Consultants",
+        "Tax Credits, Deductions and Exemptions",
+        "Credit and Debt"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Ivanka"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trump\u2019s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4c8d238f-83a8-596c-8a9d-6a6b4d490684",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/james-comey-fbi-russia-investigation.html",
+      "id": 100000007368315,
+      "asset_id": 100000007368315,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 18:33:53",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Presidential Election of 2020;Special Prosecutors (Independent Counsel);Wiretapping and Other Eavesdropping Devices and Methods;Comey, James B;Graham, Lindsey;Trump, Donald J;Federal Bureau of Investigation;Senate Committee on the Judiciary",
+      "column": null,
+      "byline": "By Nicholas Fandos and Michael S. Schmidt",
+      "type": "Article",
+      "title": "Comey Defends Russia Inquiry in Senate Testimony",
+      "abstract": "The former F.B.I. director has long been a target of President Trump\u2019s.",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Special Prosecutors (Independent Counsel)",
+        "Wiretapping and Other Eavesdropping Devices and Methods"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation",
+        "Senate Committee on the Judiciary"
+      ],
+      "per_facet": [
+        "Comey, James B",
+        "Graham, Lindsey",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James B. Comey, the former F.B.I. director, testified remotely to the Senate Judiciary Committee on Wednesday.",
+          "copyright": "Pool photo by Stefani Reynolds",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-comey-sub/30dc-comey-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-comey-sub/merlin_177836907_c04e9e6d-889f-4a9b-af9d-638aac33e374-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-comey-sub/merlin_177836907_c04e9e6d-889f-4a9b-af9d-638aac33e374-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/057f4897-7a32-5a80-bdc5-c8f293a24db7",
+      "url": "https://www.nytimes.com/2020/09/30/us/elections/presidential-debates-format.html",
+      "id": 100000007370200,
+      "asset_id": 100000007370200,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 17:52:16",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Michael M. Grynbaum",
+      "type": "Article",
+      "title": "The Commission on Presidential Debates says it will change debate format, however, no decision yet on cutting off microphones.",
+      "abstract": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Janet Brown, executive director of the Commission on Presidential Debates on Tuesday night. The commission is adjusting its debate format after the initial chaotic presidential debate but offered no details.",
+          "copyright": "Brian Snyder/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefing-debates3/30elections-briefing-debates3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefing-debates3/30elections-briefing-debates3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefing-debates3/30elections-briefing-debates3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/635bc434-89fc-5304-b3c7-a654591efdc0",
+      "url": "https://www.nytimes.com/2020/09/29/us/college-student-dies-covid.html",
+      "id": 100000007368683,
+      "asset_id": 100000007368683,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 16:51:46",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Guillain-Barre Syndrome;Colleges and Universities;Dorrill, Chad (d 2020);Appalachian State University;Boone (NC)",
+      "column": null,
+      "byline": "By Shawn Hubler",
+      "type": "Article",
+      "title": "\u2018Super Healthy\u2019 College Student Dies of Rare Covid-19 Complications",
+      "abstract": "Chad Dorrill, a 19-year-old at Appalachian State, recovered from flulike symptoms but then developed neurological problems.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Guillain-Barre Syndrome",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Appalachian State University"
+      ],
+      "per_facet": [
+        "Dorrill, Chad (d 2020)"
+      ],
+      "geo_facet": [
+        "Boone (NC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chad Dorrill died of neurological complications related to Covid-19. His uncle said Mr. Dorrill\u2019s legs didn\u2019t work when he tried to get out of bed.",
+          "copyright": "Yasmin Leonard Photography",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/52e94e74-865b-594c-bea9-71e1b1e19e02",
+      "url": "https://www.nytimes.com/2020/09/28/style/tanqueray-humans-of-new-york.html",
+      "id": 100000007362029,
+      "asset_id": 100000007362029,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 10:31:57",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Social Media;Burlesque;Philanthropy;Stanton, Brandon;GoFundMe;Humans of New York;Instagram Inc;New York City",
+      "column": null,
+      "byline": "By Sandra E. Garcia",
+      "type": "Article",
+      "title": "Tanqueray, Humans of New York Star, Brings in Over $2.5 Million in Donations",
+      "abstract": "Stephanie Johnson, 76, returned to the blog to share stories from her incredible life, this time for a cause.",
+      "des_facet": [
+        "Social Media",
+        "Burlesque",
+        "Philanthropy"
+      ],
+      "org_facet": [
+        "GoFundMe",
+        "Humans of New York",
+        "Instagram Inc"
+      ],
+      "per_facet": [
+        "Stanton, Brandon"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 1960s, Stephanie Johnson, 76, worked as a burlesque dancer known as Tanqueray. Her story, as recounted by the blog Humans of New York, first went viral in November.",
+          "copyright": "Paul Ninson",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/fashion/28tanqueray-1/28tanqueray-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/fashion/28tanqueray-1/28tanqueray-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/fashion/28tanqueray-1/28tanqueray-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/60158f43-4d54-540b-bb88-6f41c9ebe936",
+      "url": "https://www.nytimes.com/2020/09/29/technology/the-long-history-of-hidden-earpiece-conspiracy-theories.html",
+      "id": 100000007367626,
+      "asset_id": 100000007367626,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 12:34:40",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Debates (Political);Rumors and Misinformation;Computers and the Internet;Fringe Groups and Movements;Conspiracy Theories;Ears and Hearing;Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Kevin Roose",
+      "type": "Article",
+      "title": "The Long History of \u2018Hidden Earpiece\u2019 Conspiracy Theories",
+      "abstract": "Ahead of Tuesday\u2019s debate, right-wing commentators (and President Trump\u2019s campaign) speculated that Joe Biden might be equipped with a hidden earpiece. It\u2019s a decades-old charge without much evidence.",
+      "des_facet": [
+        "Debates (Political)",
+        "Rumors and Misinformation",
+        "Computers and the Internet",
+        "Fringe Groups and Movements",
+        "Conspiracy Theories",
+        "Ears and Hearing",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/reader-center/biden-ear-poster/biden-ear-poster-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/reader-center/biden-ear-poster/biden-ear-poster-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/reader-center/biden-ear-poster/biden-ear-poster-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/24b197e6-cda9-5af3-9516-63586b6728d3",
+      "url": "https://www.nytimes.com/2020/09/28/world/asia/thailand-koh-chang-defamation.html",
+      "id": 100000007364559,
+      "asset_id": 100000007364559,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 10:31:52",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Travel and Vacations;Consumer Reviews;Libel and Slander;Hotels and Travel Lodgings;Barnes, Wesley;Sea View Koh Chang (Koh Chang, Thailand, Hotel);Thailand",
+      "column": null,
+      "byline": "By Richard C. Paddock",
+      "type": "Article",
+      "title": "American Could Face Prison in Thailand After Posting Negative Reviews of a Resort",
+      "abstract": "The man was arrested under Thailand\u2019s criminal defamation law, which has been used to silence critics and stifle dissent. The hotel that brought charges acknowledges that using the law might be \u201cexcessive.\u201d",
+      "des_facet": [
+        "Travel and Vacations",
+        "Consumer Reviews",
+        "Libel and Slander",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [
+        "Sea View Koh Chang (Koh Chang, Thailand, Hotel)"
+      ],
+      "per_facet": [
+        "Barnes, Wesley"
+      ],
+      "geo_facet": [
+        "Thailand"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An undated photo of the Sea View Koh Chang resort on the island of Koh Chang in Thailand.",
+          "copyright": "Sea View Koh Chang",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/world/28thai-arrest-1/28thai-arrest-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/world/28thai-arrest-1/28thai-arrest-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/world/28thai-arrest-1/28thai-arrest-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27e0febc-b118-5da4-a115-644f3d2e200b",
+      "url": "https://www.nytimes.com/2020/09/29/us/politics/debate-time-live.html",
+      "id": 100000007357270,
+      "asset_id": 100000007357270,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 05:45:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Debates (Political);Presidential Election of 2020;Television;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "How to Watch the First Presidential Debate",
+      "abstract": "The first debate between President Trump and Joseph R. Biden Jr. takes place Tuesday night from 9 to 10:30 p.m. Eastern.",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and Joseph R. Biden Jr. will debate in Cleveland on Tuesday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-howtowatch/merlin_177730098_f06677d5-f3f6-44a4-933e-1988ab5c9b59-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-howtowatch/merlin_177730098_f06677d5-f3f6-44a4-933e-1988ab5c9b59-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-howtowatch/merlin_177730098_f06677d5-f3f6-44a4-933e-1988ab5c9b59-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e8417d04-310e-5a35-9e9f-27f727ec33d4",
+      "url": "https://www.nytimes.com/2020/09/28/us/breonna-taylor-grand-jury.html",
+      "id": 100000007366309,
+      "asset_id": 100000007366309,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-30 13:40:25",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Jury System;Police Brutality, Misconduct and Shootings;Murders, Attempted Murders and Homicides;Decisions and Verdicts;Hankison, Brett (Louisville, Ky, Police Officer);Cosgrove, Myles (Louisville, Ky, Police Officer);Cameron, Daniel J (1985- );Mattingly, Jon (Louisville, Ky, Police Officer);Taylor, Breonna (1993-2020);Police Department (Louisville, Ky);Kentucky",
+      "column": null,
+      "byline": "By Rukmini Callimachi",
+      "type": "Article",
+      "title": "Grand Juror in Breonna Taylor Case Says Deliberations Were Misrepresented",
+      "abstract": "The Kentucky attorney general\u2019s office said it would release the panel\u2019s recordings after a grand juror contended in a court filing that its discussions were inaccurately characterized.",
+      "des_facet": [
+        "Jury System",
+        "Police Brutality, Misconduct and Shootings",
+        "Murders, Attempted Murders and Homicides",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [
+        "Police Department (Louisville, Ky)"
+      ],
+      "per_facet": [
+        "Hankison, Brett (Louisville, Ky, Police Officer)",
+        "Cosgrove, Myles (Louisville, Ky, Police Officer)",
+        "Cameron, Daniel J (1985- )",
+        "Mattingly, Jon (Louisville, Ky, Police Officer)",
+        "Taylor, Breonna (1993-2020)"
+      ],
+      "geo_facet": [
+        "Kentucky"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8f48eba-770a-54c1-8025-b527b9903254",
+      "url": "https://www.nytimes.com/2020/09/29/arts/music/helen-reddy-dead.html",
+      "id": 100000006974341,
+      "asset_id": 100000006974341,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 16:44:49",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Reddy, Helen",
+      "column": null,
+      "byline": "By Anita Gates",
+      "type": "Article",
+      "title": "Helen Reddy Dies at 78; Sang \u2018I Am Woman\u2019",
+      "abstract": "The Australian-born singer\u2019s first No. 1 hit became a feminist anthem and propelled her to international stardom.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Reddy, Helen"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Helen Reddy on &ldquo;The Helen Reddy Show,&rdquo; a 1973 summer replacement series on NBC. Her song &ldquo;I Am Woman&rdquo; had reached No. 1 on the pop charts the previous year.",
+          "copyright": "Herb Ball/NBC Universal, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/obituaries/30Reddy1-sub/30Reddy1-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/obituaries/30Reddy1-sub/30Reddy1-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/obituaries/30Reddy1-sub/30Reddy1-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+      "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+      "id": 100000007182686,
+      "asset_id": 100000007182686,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-22 17:13:54",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+      "column": null,
+      "byline": "By Eilene Zimmerman",
+      "type": "Article",
+      "title": "What Makes Some People More Resilient Than Others",
+      "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+      "des_facet": [
+        "Content Type: Service",
+        "Post-Traumatic Stress Disorder",
+        "Psychology and Psychologists",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Monika Aichele",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ce1f474f-3eff-56af-bf0b-f942652b8835",
+      "url": "https://www.nytimes.com/2020/09/30/health/covid-cruise-ships.html",
+      "id": 100000007364838,
+      "asset_id": 100000007364838,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 19:13:04",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Cruises;United States Politics and Government;Lobbying and Lobbyists;Coronavirus Reopenings;Travel Warnings;Redfield, Robert R;Trump, Donald J;Centers for Disease Control and Prevention;Florida",
+      "column": null,
+      "byline": "By Sheila Kaplan",
+      "type": "Article",
+      "title": "White House Blocked C.D.C. Order to Keep Cruise Ships Docked",
+      "abstract": "The C.D.C. director wanted a \u201cno sail\u201d order extended until February, a policy that would have upset the tourism industry in the crucial swing state of Florida.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Cruises",
+        "United States Politics and Government",
+        "Lobbying and Lobbyists",
+        "Coronavirus Reopenings",
+        "Travel Warnings"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Redfield, Robert R",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/012a2509-ee82-5845-a8f7-0e73a4e17f19",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-voters.html",
+      "id": 100000007364860,
+      "asset_id": 100000007364860,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 16:17:48",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Polls and Public Opinion;Presidential Election of 2020;Biden, Joseph R Jr;Clinton, Bill;Clinton, Hillary Rodham;de Blasio, Bill;Ford, Christine Blasey;Harris, Kamala D;Kavanaugh, Brett M;Sanders, Bernard;Democratic Party",
+      "column": null,
+      "byline": "By Bret Stephens",
+      "type": "Article",
+      "title": "Meet a Secret Trump Voter",
+      "abstract": "\u2018Being a lesbian who\u2019s voting for Trump is like coming out of the closet again.\u2019",
+      "des_facet": [
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Clinton, Bill",
+        "Clinton, Hillary Rodham",
+        "de Blasio, Bill",
+        "Ford, Christine Blasey",
+        "Harris, Kamala D",
+        "Kavanaugh, Brett M",
+        "Sanders, Bernard"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "Robert McCarthy",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
