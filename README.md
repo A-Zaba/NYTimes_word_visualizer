@@ -21,3 +21,7 @@ user's selected topic.
 
 - ```Streamlit run main.py``` command must be issued in terminal to run application properly
 
+## To do
+- Reorganize code into separate files and classes.
+  - Add proper encapsulation between said newly-created files.
+- Create a more robust front-end as to improve user experience.
